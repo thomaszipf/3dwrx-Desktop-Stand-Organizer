@@ -14,7 +14,7 @@ To make it sorted, I started to make this initial design to make room for that s
   <img 
     width="600"
     height="600"
-    src="https://github.com/thomaszipf/3dwrx-USB-Stick-MicroSD-Desktop-Stand/blob/main/Images/USB-Stick-and-MicroSD-Desktop-Stand.PNG.PNG"
+    src="https://github.com/thomaszipf/3dwrx-USB-Stick-MicroSD-Desktop-Stand/blob/main/Images/USB-Stick-and-MicroSD-Desktop-Stand.PNG"
   >
 </p>
 
