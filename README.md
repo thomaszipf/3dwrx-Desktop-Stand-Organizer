@@ -1,6 +1,6 @@
-# 3dwrx-USB-Stick-MicroSD-Desktop-Stand
+# 3dwrx-Desktop-Stand-Organizer
 
-## The purpose of 3dwrx-USB-Stick-MicroSD-Desktop-Stand
+## The purpose of 3dwrx-Desktop-Stand-Organizer
 
 Since I am using my desk a lot, it can become cluttered in a really short time. So, I often get request from my girlfriend to clean it up and sort things out. 
 Almost everything that you will find on my desk is related to PCs, Cameras, or mobile phones. I have a lot of USB PenDrives, USB Adapters or a large number of different types of SD cards. I had idea instead of removing it, like my girlfriend asked, to put it in a spot that I don't use that much and it won't look cluttered.
